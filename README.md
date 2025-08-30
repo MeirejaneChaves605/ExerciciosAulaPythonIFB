@@ -32,7 +32,7 @@ Desenvolvimento de Software com Formação BackEnd - Python com Django- Campus R
 </br>
 
 <br>
-<img align="center" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagem/Imagem1.jpg?raw=true.png">
+<img align="center" width="800px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/Imagem1/INTRODU%C3%87%C3%83O%20AO%20PYTHON.jpg?raw=true.png">
 </br>
 
 
