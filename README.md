@@ -4,10 +4,8 @@ Desenvolvimento de Software com Formação BackEnd - Python com Django- Campus R
 <br>
 <img align="center" width="600px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagens/Lista%20de%20Exerc%E2%94%9C%C2%A1cios-imagens-0.jpg?raw=true.png">
 </br>
-
-
 <br>
-<img align="center" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagem/Imagem1.jpg?raw=true.png">
+<img align="right" width="150px" style="margin-top:-20px" src=".png">
 </br>
 <br>
 <img align="center" width="150px" style="margin-top:-20px" src="https://github.com/MeirejaneChaves605/ExerciciosAulaPythonIFB/blob/main/imagem/Imagem1.jpg?raw=true.png">
